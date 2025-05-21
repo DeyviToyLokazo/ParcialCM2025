@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExamenParcial</string>
+    <!-- lOGIN -->
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_edad">Edad</string>
+    <string name="hint_celular">Celular</string>
+    <string name="hint_correo">Correo</string>
+    <string name="button_text">Saludar</string>
+</resources>
